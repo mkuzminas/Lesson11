@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mariu\\source\\repos\\Lesson11_tmp\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj": {}
+    "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mariu\\source\\repos\\Lesson11_tmp\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj": {
+    "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mariu\\source\\repos\\Lesson11_tmp\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj",
         "projectName": "Lesson11.DataAccess",
-        "projectPath": "C:\\Users\\mariu\\source\\repos\\Lesson11_tmp\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj",
+        "projectPath": "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.DataAccess\\Lesson11.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mariu\\source\\repos\\Lesson11_tmp\\Lesson11.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
