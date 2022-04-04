@@ -8,8 +8,15 @@ namespace Lesson11.Business
 {
     public class AirCraft
     {
-        public int TailNumber { get; set; }
-        public Model model { get; set; }
-        public Company owner { get; set; }
+        public int TailNumber { get; }
+        public Model Model { get; }
+        public Company Owner { get; }
+
+        public AirCraft(int tailNumber, Model model, Company owner)
+        {
+            TailNumber = tailNumber;
+            Model = model;
+            Owner = owner;
+        }
     }
 }

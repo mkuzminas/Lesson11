@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Lesson11.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lesson11.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lesson11.Business.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Lesson11.Business/1.0.0": {
+      "type": "project",
+      "path": "../Lesson11.Business/Lesson11.Business.csproj",
+      "msbuildProject": "../Lesson11.Business/Lesson11.Business.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Lesson11.Business >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mariu\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.Business\\Lesson11.Business.csproj": {
+              "projectPath": "C:\\Users\\mariu\\source\\repos\\Lesson11\\Lesson11.Business\\Lesson11.Business.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
